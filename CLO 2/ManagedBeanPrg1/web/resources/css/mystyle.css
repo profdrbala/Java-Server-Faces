@@ -1,0 +1,24 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 5, 2020, 3:01:04 PM
+    Author     : bala
+*/
+
+.out{
+     font: xx-large; color: blueviolet; animation:  ease-out;
+}
+.bt{
+    background:  chartreuse; appearance:  menubar; 
+    background-image: url('/img1.png');
+    cursor: pointer;
+    width: 126px;
+    height: 41px;
+    border: none;
+}
+.ip {
+    text-orientation:  sideways-right;
+}
